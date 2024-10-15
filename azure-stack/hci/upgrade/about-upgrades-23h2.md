@@ -16,6 +16,9 @@ This article provides an overview of upgrading your existing Azure Stack HCI sys
 
 Throughout this article, we refer to Azure Stack HCI, version 23H2 as the *new* version and Azure Stack HCI, version 22H2 as the *old* version.
 
+> [!IMPORTANT]
+> Contact your hardware OEM to verify they support the upgrade and the latest version of Azure Stack HCI. 
+
 ## About Azure Stack HCI, version 23H2
 
 Azure Stack HCI, version 23H2 is the latest version of the Azure Stack HCI solution. This version integrates the Azure Arc infrastructure that provisions and manages the workloads such as Arc VMs, Azure Kubernetes Services, and Azure Virtual Desktop. For more information, see [What's new in Azure Stack HCI, version 23H2](../whats-new.md#features-and-improvements-in-2311).
